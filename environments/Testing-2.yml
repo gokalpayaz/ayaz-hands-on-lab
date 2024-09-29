@@ -2,10 +2,10 @@ fileVersion: 1
 id: "2"
 mappingDefinitions:
   SRC:
-    database: ""
-    schema: ""
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
   WORK:
-    database: ""
-    schema: ""
+    database: AYAZ
+    schema: WORKTEST
 name: Testing
 type: Environment
